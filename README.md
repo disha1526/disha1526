@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Disha Sharma 👋</h1>
 
-<h3 align="center">📊 Data Analyst | Python • SQL • Power BI | IIT Madras & Google Certified</h3>
+<h3 align="center">📊 Data Analyst | Python • SQL • Power BI | IIT Madras Certified</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/disha-sharma-090276297" target="_blank">
@@ -22,7 +22,7 @@
 - 📍 Based in **Delhi, India**
 - 🔍 Passionate about turning **raw data into actionable business insights**
 - 🏛️ Trained at **IIT Madras** (Data Science Program) & completed **Deloitte Data Analyst Simulation** (Forage)
-- 📜 Certified by **Google**, **Microsoft**, **IIT Madras**, and **Deloitte**
+- 📜 Certified by **Microsoft**, **IIT Madras**, and **Deloitte**
 - 🌱 Currently exploring **Machine Learning** and **Advanced Power BI** techniques
 - 💬 Ask me about **Python, SQL, EDA, Power BI, Statistics**
 - 📫 Reach me at: **dishasharma26124@gmail.com**
@@ -79,10 +79,9 @@ Full-cycle EDA project on a structured business dataset hosted on IBM Cloud.
 
 | Certificate | Issuer | Year |
 |---|---|---|
-| 🏆 Data Science Training Program | IIT Madras | 2024 |
-| 🏆 Google Data Analytics Professional | Google | 2024 |
-| 🏆 Data Analyst Job Simulation | Deloitte via Forage | 2024 |
-| 🏆 Microsoft Power BI Data Analyst | Microsoft | 2024 |
+| 🏆 Data Science Training Program | IIT Madras | 2025 |
+| 🏆 Data Analyst Job Simulation | Deloitte via Forage | 2026 |
+| 🏆 Microsoft Power BI Data Analyst | Microsoft | 2025|
 
 ---
 
